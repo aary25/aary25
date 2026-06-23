@@ -6,7 +6,7 @@
 
 ## Aary Patel
 
-Computer Engineering student at the University of Kentucky, building at the intersection of **hardware and software**. I design digital systems, write embedded code, and create things that bridge the physical and digital worlds.
+Computer Engineering student at the University of Kentucky.
 
 ---
 
@@ -15,7 +15,7 @@ Computer Engineering student at the University of Kentucky, building at the inte
 - Digital logic design with **Verilog & FPGA** (Vivado)
 - Embedded systems prototyping with **Arduino**
 - Home lab: **Active Directory**, networking, and bare-metal Linux
-- Pursuing **CompTIA** certifications
+- Pursuing **Azure** certifications
 
 ---
 
