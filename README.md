@@ -61,11 +61,9 @@ Computer Engineering student at the University of Kentucky.
 
 ---
 
-### GitHub/Leetcode Stats
+### GitHub Stats
 
 <div align="center">
-
-[![Aary's LeetCode Stats](https://leetcard.jacoblin.cool/apa986?theme=dark&font=Karma&ext=activity)](https://leetcode.com/aary25)
 
 ![Aary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aary25&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0c&title_color=e8ff47&icon_color=47c8ff&text_color=e8e8f0)
 
@@ -73,6 +71,16 @@ Computer Engineering student at the University of Kentucky.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aary25&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0c&title_color=e8ff47&text_color=e8e8f0)
 
 
+
+</div>
+
+---
+
+### Leetcode Stats
+
+<div align="center">
+
+[![Aary's LeetCode Stats](https://leetcard.jacoblin.cool/apa986?theme=dark&font=Karma&ext=activity)](https://leetcode.com/aary25)
 
 </div>
 
