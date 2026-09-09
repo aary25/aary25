@@ -80,7 +80,7 @@ Computer Engineering student at the University of Kentucky.
 
 <div align="center">
 
-[![Aary's LeetCode Stats](https://leetcard.jacoblin.cool/apa986?theme=dark&font=Karma&ext=activity)](https://leetcode.com/aary25)
+[![Aary's LeetCode Stats](https://leetcard.jacoblin.cool/ap986?theme=dark&font=Karma&ext=activity)](https://leetcode.com/aary25)
 
 </div>
 
