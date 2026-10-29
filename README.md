@@ -14,7 +14,7 @@ Computer Engineering student at the University of Kentucky.
 
 - Digital logic design with **Verilog & FPGA** (Vivado)
 - Embedded systems prototyping with **Arduino**
-- Home lab: **Active Directory**, networking, and Linux
+- Home lab: **Proxmox**, **Docker**, and self-hosted **CI/CD** (Gitea + Woodpecker), with Prometheus/Grafana monitoring
 
 ---
 
@@ -22,7 +22,7 @@ Computer Engineering student at the University of Kentucky.
 
 - RTL design and simulation — synchronous counters, FSMs, flip-flops, LFSRs, 7-segment decoders
 - Embedded hardware prototyping — oscilloscope builds, drone feasibility research
-- Systems administration — self-hosted Windows Server, DNS/DHCP, Active Directory
+- Systems administration — Proxmox VE, Debian VMs, Docker, self-hosted CI/CD, Prometheus/Grafana monitoring, Tailscale remote access
 - Software development — data structures, OOP, algorithms in C++ and Java
 
 ---
@@ -50,7 +50,8 @@ Computer Engineering student at the University of Kentucky.
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ---
 
