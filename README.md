@@ -15,7 +15,6 @@ Computer Engineering student at the University of Kentucky.
 - Digital logic design with **Verilog & FPGA** (Vivado)
 - Embedded systems prototyping with **Arduino**
 - Home lab: **Active Directory**, networking, and Linux
-- Pursuing **Azure** certifications
 
 ---
 
